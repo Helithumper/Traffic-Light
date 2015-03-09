@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrafficLight()
+comment1.params=
+comment1.target=Bulb[]\ getLights()
+comment2.params=lights
+comment2.target=void\ setLights(Bulb[])
+comment3.params=
+comment3.target=void\ nextState()
+comment4.params=
+comment4.target=int\ indexofLitBulb()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
